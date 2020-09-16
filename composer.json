@@ -1,5 +1,5 @@
 {
-    "name": "jamesmills/laravel-notification-rate-limit",
+    "name": "bwardlaw/laravel-notification-rate-limit",
     "description": "Rate limiter to avoid flooding users with duplicate notifications.",
     "keywords": [
         "jamesmills",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.1",
-        "illuminate/support": "^7.0"
+        "illuminate/support": "^7.0|^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0",
